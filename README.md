@@ -19,3 +19,7 @@ python3 ./benchmark.py
 |     columnar     | 29.19s (N/A) | 0.01s (4999013444) |      0.51s (1970-01-01T00:18:47)       |    49.30s (N/A)     |       0.94s (999668)        |
 +------------------+--------------+--------------------+----------------------------------------+---------------------+-----------------------------+
 ```
+
+## References
+
+- https://datastation.multiprocess.io/blog/2021-10-18-experimenting-with-column-and-row-oriented-datastructures.html

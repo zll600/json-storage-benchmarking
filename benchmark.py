@@ -4,7 +4,7 @@ from time import time
 from beautifultable import BeautifulTable
 
 table = BeautifulTable()
-table.max_table_width=150
+table.maxwidth=150
 
 tests = {}
 

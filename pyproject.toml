@@ -1,0 +1,11 @@
+[project]
+name = "json-storage-benchmarking"
+version = "0.0.1"
+requires-python = ">=3.13"
+dependencies = [
+    "faker",
+    "beautifultable",
+]
+
+[tool.uv]
+package = false
